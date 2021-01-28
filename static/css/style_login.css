@@ -25,7 +25,8 @@ a[href^="tel:"] {
 body {
 	position: relative;
 	min-width: 960px;
-    background-color: #002141;
+    /* background-color: #002141; */
+    background-color: white;
     color: #737272;
     font: 14px/20px 'Open Sans', sans-serif;
 }
@@ -187,7 +188,7 @@ a.col1:hover a {
     color: #c73430;
 }
 
-a.btn {
+/* a.btn {
     font-size: 14px;
     line-height: 20px;
     color: #737272;
@@ -196,7 +197,7 @@ a.btn {
     padding: 5px 26px 4px;
     margin-top: 28px;
     border-radius: 8px;
-}
+} */
 
 button.primaryAction {
     font-size: 14px;
@@ -210,10 +211,10 @@ button.primaryAction {
     border-radius: 8px;
 }
 
-a.btn:hover {
+/* a.btn:hover {
     background-color: #c73430;
     color: #fff;
-}
+} */
 
 button.primaryAction:hover {
     background-color: #c73430;
